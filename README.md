@@ -14,7 +14,7 @@ Ce projet est une première étape vers la **data analyse appliquée au sport** 
 ## 🛠️ Technologies utilisées
 - **SQL** (SQLite)
 - **Python** (pandas)
-- Jupyter Notebook
+- **Jupyter Notebook**
 
 ---
 
